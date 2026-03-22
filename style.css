@@ -125,3 +125,78 @@ body{
     margin-bottom: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+/*return book */
+.table-container{
+    flex: 1;
+    padding: 20px;
+}
+
+/*return book table*/
+.returnbook-table{
+    border-collapse: collapse;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.returnbook-table th{
+    border: 2px solid black;
+    padding: 10px;
+}
+.returnbook-table td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/*view books*/
+.table2-container{
+    flex: 1;
+    padding: 20px;
+}
+
+/*view books table*/
+.viewbooks-table{
+    border-collapse: collapse;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.viewbooks-table th{
+    border: 2px solid black;
+    padding: 10px;
+}
+.viewbooks-table td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/*view borrowed books*/
+.table3-container{
+    flex: 1;
+    padding: 20px;
+}
+
+/*borrowed books table*/
+.viewborrowedbooks-table{
+    border-collapse: collapse;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.viewborrowedbooks-table th{
+    border: 2px solid black;
+    padding: 10px;
+}
+.viewborrowedbooks-table td{
+    border: 2px solid black;
+    padding: 10px;
+}
